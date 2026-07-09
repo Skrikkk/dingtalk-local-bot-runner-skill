@@ -1,0 +1,4 @@
+interface:
+  display_name: "DingTalk Local Bot Runner"
+  short_description: "Run local scripts from DingTalk bots"
+  default_prompt: "Use $dingtalk-local-bot-runner to create a DingTalk Stream bot that runs a local script and returns generated files with dws."
