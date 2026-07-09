@@ -1,5 +1,7 @@
 # DingTalk Local Bot Runner Skill
 
+[中文说明](README.zh-CN.md)
+
 Codex Skill for building DingTalk Stream robot workflows that:
 
 ```text
