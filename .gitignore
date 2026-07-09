@@ -1,0 +1,14 @@
+.env
+*.log
+logs/
+output/
+reports/
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+*.jsonl
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
